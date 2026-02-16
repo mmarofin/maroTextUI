@@ -27,7 +27,8 @@ exports['maroTextUI']:TextUI("You don't have enough money!", "error", "!")
 ---
 ### How does this TextUI look?
 
-<img src="https://i.imgur.com/iO7Y7jN.png" width="500">
+<img src="https://i.postimg.cc/25t8Lqxr/image-2026-02-17-004759425.png" width="500">
 
 ---
+
 ### What are you waiting for just download the resource and use it!
