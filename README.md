@@ -24,6 +24,12 @@ exports['maroTextUI']:TextUI("Press to view garage", "info", "G")
 exports['maroTextUI']:TextUI("You don't have enough money!", "error", "!")
 ```
 
+- to hide it (forgot to mention)
+
+```lua
+exports['maroTextUI']:HideUI()
+```
+
 ---
 ### How does this TextUI look?
 
@@ -32,3 +38,4 @@ exports['maroTextUI']:TextUI("You don't have enough money!", "error", "!")
 ---
 
 ### What are you waiting for just download the resource and use it!
+
